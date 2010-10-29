@@ -2,4 +2,3 @@
 class CakeAttachmentAppModel extends AppModel {
 	
 }
-?>

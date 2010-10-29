@@ -209,4 +209,3 @@ class ImageComponent extends Object {
         $this->resize($width, $height, $newPath, $saveAs);
     }
 }
-?>

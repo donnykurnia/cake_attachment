@@ -702,5 +702,3 @@ class UploadBehavior extends ModelBehavior {
     }
 
 }
-
-?>

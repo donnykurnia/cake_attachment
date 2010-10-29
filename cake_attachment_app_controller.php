@@ -2,4 +2,3 @@
 class CakeAttachmentAppController extends AppController {
 
 }
-?>
